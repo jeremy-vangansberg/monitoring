@@ -4,7 +4,7 @@ This repository provides an example of general monitoring using Grafana and Prom
 
 ## Installation
 
-There are only two prerequisites:
+There are only one prerequisites:
 
 * [Docker](https://docs.docker.com/get-docker/)
 
