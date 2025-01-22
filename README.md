@@ -7,7 +7,6 @@ This repository provides an example of general monitoring using Grafana and Prom
 There are only two prerequisites:
 
 * [Docker](https://docs.docker.com/get-docker/)
-* [Docker-compose](https://docs.docker.com/compose/install/)
 
 Having both, you'll need to clone the repository:
 
