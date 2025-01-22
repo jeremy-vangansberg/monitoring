@@ -12,7 +12,7 @@ There are only two prerequisites:
 Having both, you'll need to clone the repository:
 
 ``` bash
-git clone https://github.com/Kludex/fastapi-prometheus-grafana
+git clone https://github.com/jeremy-vangansberg/simplon-monitoring.git
 ```
 
 ## Usage
@@ -47,14 +47,8 @@ You can open and run the Jupyter notebooks such as `test_demo.ipynb` to explore 
 To install the required dependencies for the notebooks, run:
 
 ``` bash
-pip install -r monitoring-ml/requirements.txt
+pip install -r requirements.txt
 ```
-
-## How it looks like
-
-<p align="center">
-  <img src="./dashboard.jpeg">
-</p>
 
 ## References
 
